@@ -2,7 +2,7 @@
 
 ## The list of graph algorithms from the book, "Introduction to Algorithms, 3rd ed", MIT press.
 Chapter 6
-- graphs adjacency list, matrix list, directed, undirected, weighted
+- graphs adjacency list, adjacency matrix, directed, un-directed, weighted, un-weighted
 - breath first search
 - depth first search
 - topological sort (DAG)
